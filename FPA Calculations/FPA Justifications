@@ -1,0 +1,8 @@
+for our project we were initially going to use a combination of JS, HTML and CSS. We changed our mind later in the course, however. We decided to learn 
+a new technology, Flutter, and develop our app entirely using its language Dart. We decided to use only Dart for the project development because it's a
+very powerful language and has flexcibilities and abilities of scripting languages like Python and compiled languages like Java. Since this is the only 
+language we will be using, there is going to be only one language in our calculations for the FPA. One problem that we faced while updating our FPA
+calculations was our uncertainty about the Language Factor (LF) for Dart. The language did not seem to have a present LF in the common tables available in 
+the internet. After consulting with our TA for the class we decided to use the LF from a comparable language. Dart is similar to C# and Java in syntax and 
+have a lot of other similarities e.g it’s a compiled, type-safe language just like C# and Java. Based on the team's judgement, we identified Java to be the 
+most similar to Dart and used it as a base in our calculations.
