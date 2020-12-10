@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854192540005",
+    "project_id": "aloneless-16197",
+    "storage_bucket": "aloneless-16197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854192540005:android:4edf809b81a6f8bd92798c",
+        "android_client_info": {
+          "package_name": "com.tyeecehensley.aloneless_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854192540005-jfi5ufdjaj82nhfq4ckifea50i6haq1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtjZV8Sdv2w6WKVFEWamfYNvTqWheCIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854192540005-jfi5ufdjaj82nhfq4ckifea50i6haq1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
